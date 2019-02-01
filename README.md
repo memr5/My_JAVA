@@ -4,7 +4,7 @@
 # lab 2
      1)Sum 
      2)Table 
-     3)Constructure
+     3)Constructor
 # lab 3
      1)Write a program by creating an 'Employee' class having the following methods and print the final salary.
                1 - 'getInfo()' which takes the salary, number of hours of work per day of employee as parameter
