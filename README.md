@@ -10,7 +10,7 @@
                1 - 'getInfo()' which takes the salary, number of hours of work per day of employee as parameter
                2 - 'AddSal()' which adds $10 to salary of the employee if it is less than $500.
                3 - 'AddWork()' which adds $5 to salary of employee if the number of hours of work per day is more than 6 hours.
-     2)=> Create a class called 'Matrix' containing constructor that initializes the number of rows and number of columns of a new Matrix           object. The Matrix class has the following information:
+     2)=> Create a class called 'Matrix' containing constructor that initializes the number of rows and number of columns of a new                 Matrix object. The Matrix class has the following information:
                 1 - number of rows of matrix
                 2 - number of columns of matrix
                 3 - elements of matrix in the form of 2D array
@@ -18,13 +18,14 @@
                 1 - get the number of rows
                 2 - get the number of columns
                 3 - set the elements of the matrix at given position (i,j)
-                4 - adding two matrices. If the matrices are not addable, "Matrices cannot be added" will be                                                   displayed.
+                4 - adding two matrices. If the matrices are not addable, "Matrices cannot be added" will be                                                 displayed.
        =>multiplying the two matrices
 
 ## JAVA_LAB_ASSIGNMENT
 # Practice Problems: Classes and Objects 
   # 1)
-     The Java class called Holidayis started below. An object of class Holidayrepresents a holiday during the year. This class has three instance variables:
+     The Java class called Holidayis started below. An object of class Holidayrepresents a holiday during the year. 
+     This class has three instance variables:
           name, which is a Stringrepresenting the name of the holiday
           day, which is an intrepresenting the day of the month of the holiday
           month, which is a Stringrepresenting the month the holiday is in
