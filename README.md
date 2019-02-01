@@ -1,11 +1,11 @@
-## JAVA LAB
- # lab 1
+# JAVA LAB
+ ## lab 1
      Circle in c
- # lab 2
+ ## lab 2
      1)Sum of Two number
      2)Table of any number by user input
      3)Constructor(Overview)
- # lab 3
+ ## lab 3
      1)Write a program by creating an 'Employee' class having the following methods and print the final salary.
                1 - 'getInfo()' which takes the salary, number of hours of work per day of employee as parameter
                2 - 'AddSal()' which adds $10 to salary of the employee if it is less than $500.
@@ -21,8 +21,8 @@
                 4 - adding two matrices. If the matrices are not addable, "Matrices cannot be added" will be                                                 displayed.
        =>multiplying the two matrices
 
-## JAVA_LAB_ASSIGNMENT 
-  # 1)
+# JAVA_LAB_ASSIGNMENT 
+  ## 1)
      The Java class called Holidayis started below. An object of class Holidayrepresents a holiday during the year. 
      This class has three instance variables:
           name, which is a Stringrepresenting the name of the holiday
@@ -50,7 +50,7 @@
 
      d)	Write a piece of code that creates a Holidayinstance with the name “Independence Day”, with the day “4”, and with
           the month “July”.
-   # 2)
+   ## 2)
           The class Movie is started below. An instance of class Movie represents a film. This class has the following three class variables:
 
      	title, which is a Stringrepresenting the title of the movie
@@ -76,12 +76,12 @@
 
      d)	Write a piece of code that creates an instance of the class Moviewith the title “Casino Royale”, the studio “Eon Productions”,    
           and the rating.
-   # 3)
+   ## 3)
           Write a program by creating an 'Employee' class having the following methods and print the final salary.
                 1 - 'getInfo()' which takes the salary, number of hours of work per day of employee as parameter
                 2 - 'AddSal()' which adds $10 to salary of the employee if it is less than $500.
                 3 - 'AddWork()' which adds $5 to salary of employee if the number of hours of work per day is more than 6 hours.
-   # 4)
+   ## 4)
           Create a class called 'Matrix' containing constructor that initializes the number of rows and number of columns of a
                new Matrix object. The Matrix class has the following information:
                 1 - number of rows of matrix
