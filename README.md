@@ -1,4 +1,4 @@
-## My_JAVA
+## JAVA LAB
 # lab 1
      Circle in c
 # lab 2
