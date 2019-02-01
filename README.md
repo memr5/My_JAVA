@@ -21,8 +21,7 @@
                 4 - adding two matrices. If the matrices are not addable, "Matrices cannot be added" will be                                                 displayed.
        =>multiplying the two matrices
 
-## JAVA_LAB_ASSIGNMENT
-# Practice Problems: Classes and Objects 
+## JAVA_LAB_ASSIGNMENT 
   # 1)
      The Java class called Holidayis started below. An object of class Holidayrepresents a holiday during the year. 
      This class has three instance variables:
