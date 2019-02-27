@@ -7,5 +7,6 @@ public class Hello {
         System.out.print("Enter Your name :");
         String name = sc.nextLine();
         System.out.println("Hello " +name+ ", Nice to meet you");
+        System.out.print("Changes!!");
     }
 }
